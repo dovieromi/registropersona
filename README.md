@@ -1,1 +1,2 @@
-# registropersona
+# RegistroPersona
+[IT, originale] RegistroPersona è un sito web basato su HTML5, TailwindCSS e Vue.JS, il cui scopo è quello di permettere ad un operatore di registrare correttamente informazioni in merito ai dipendenti o soggetti di un'organizzazione in una base di dati. Quest'ultima - nel caso di studio iniziale - viene implementata con PostgreSQL e gestita da Laravel, sebbene possa essere basata su qualsiasi linguaggio e gestita con qualsiasi framework PHP (se desiderato).
